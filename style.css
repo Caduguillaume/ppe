@@ -1,0 +1,15 @@
+.header {
+    background-image: url("./images/header/banniere.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: top;
+}
+
+h1{
+  text-align: center;
+  color:white;
+}
+h3{
+  text-align: center;
+  color:white;
+}
